@@ -1,0 +1,15 @@
+.img-profile {
+    width: 150px;
+    height: 150px;
+}
+
+@media (max-width: 767px) {
+    .img-profile {
+        width: 90px;
+        height: 90px;
+    }
+}
+
+.social a {
+    color: inherit;
+}
